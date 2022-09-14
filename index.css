@@ -668,7 +668,7 @@ body{
     justify-content: space-between;
 }
 .space-travel-video-background{
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/city-tours/wp-content/uploads/sites/5/2018/11/para-07.jpg?id=1845);
+    background-image: url(./imgduan1/para-07.jpg);
     width: 400px;
     height: 660px;
     background-repeat: no-repeat;
@@ -1285,16 +1285,16 @@ body{
     background-position-x: center;
 }
 .blogs-travel-item-img-1{
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/city-tours/wp-content/uploads/sites/5/2018/04/blog-01.jpg);
+    background-image: url(./imgduan1/blog-01.jpg);
 }
 .blogs-travel-item-img-2{
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/city-tours/wp-content/uploads/sites/5/2018/03/blog-04.jpg);
+    background-image: url(./imgduan1/blog-02.jpg);
 }
 .blogs-travel-item-img-3{
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/city-tours/wp-content/uploads/sites/5/2018/04/blog-03.jpg);
+    background-image: url(./imgduan1/blog-03.jpg);
 }
 .blogs-travel-item-img-4{
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/city-tours/wp-content/uploads/sites/5/2018/04/blog-02.jpg);
+    background-image: url(./imgduan1/blog-04.jpg);
 }
 .blogs-travel-item-son{
     width: 50%;
