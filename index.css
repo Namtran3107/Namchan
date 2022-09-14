@@ -1375,7 +1375,7 @@ body{
 }
 /* FOOTER-WEB */
 .footer-travel-list{
-    width: 1200px;
+    width: 1170px;
     margin: 0 auto;
     max-width: calc(100% - 30px);
 }
@@ -1410,7 +1410,7 @@ body{
     width: 50%;
 }
 .footer-travel-recommend-logo-son{
-    font-size: 16px;
+    font-size: 15px;
     font-family: sans-serif;
     letter-spacing: 1px;
     line-height: 28px;
@@ -1427,7 +1427,7 @@ body{
     width: calc(100% / 3);
 }
 .footer-travel-recommend-son{
-    padding: 10px 50px 0 17px;
+    padding: 10px 60px 0 17px;
 }
 .footer-travel-header{
     font-size: 13px;
