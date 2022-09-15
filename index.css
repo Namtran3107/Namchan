@@ -657,7 +657,7 @@ body{
 
 /* SPACE TRAVEL */
 #space-travel-all{
-    width: 1200px;  
+    width: 1170px;  
     max-width: calc(100% - 20px);
     margin: 0 auto;
     margin-top: 60px;
@@ -818,7 +818,7 @@ body{
     margin-top: 100px;
 }
 .services-travel-body{
-    width: 1200px;
+    width: 1170px;
     margin: 0 auto;
     max-width: calc(100% - 20px);
 }
@@ -932,7 +932,7 @@ body{
     width: 100%;
 }
 .sell-travel-body{
-    width: 1200px;
+    width: 1170px;
     margin: 0 auto;
     padding-top: 70px;
     display: flex;
@@ -1233,7 +1233,7 @@ body{
     text-decoration: none;
 }
 .blogs-travel-body{
-    width: 1200px;
+    width: 1170px;
     margin: 0 auto;
     padding: 80px 0;
     max-width: calc(100% - 30px);
